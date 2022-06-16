@@ -1,0 +1,1 @@
+../../Sources/./Intramodular/Collection View & List/_CollectionViewConfiguration.swift

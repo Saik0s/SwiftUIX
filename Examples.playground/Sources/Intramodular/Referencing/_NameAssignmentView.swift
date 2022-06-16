@@ -1,0 +1,1 @@
+../../Sources/./Intramodular/Referencing/_NameAssignmentView.swift

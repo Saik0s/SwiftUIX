@@ -1,0 +1,1 @@
+../../Sources/./Intermodular/Helpers/Quartz/QuickLookPreview.swift

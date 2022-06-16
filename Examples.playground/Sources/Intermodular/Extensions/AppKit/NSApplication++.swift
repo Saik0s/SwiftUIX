@@ -1,0 +1,1 @@
+../../Sources/./Intermodular/Extensions/AppKit/NSApplication++.swift

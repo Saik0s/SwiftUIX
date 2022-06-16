@@ -1,0 +1,1 @@
+../../Sources/./Intermodular/Extensions/CoreData/FetchedResults.swift

@@ -1,0 +1,1 @@
+../../Sources/./Intramodular/Catalyst/HideTitleBar.swift

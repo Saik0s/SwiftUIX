@@ -1,0 +1,1 @@
+../../Sources/./Intermodular/Protocol Conformances/SwiftUI/SwiftUI+opaque_View.swift
